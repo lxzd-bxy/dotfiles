@@ -1,1 +1,1 @@
-My custom confusion of the linux system.
+My custom config of the linux system.
